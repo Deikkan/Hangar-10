@@ -1,0 +1,38 @@
+===================================
+ESCAPE FROM HANGAR 10 README
+===================================
+
+Escape From Hangar 10 v1.1
+
+===================================
+Installation
+===================================
+
+Extract anywhere and run setup.exe
+
+===================================
+Controls
+===================================
+
+Windows
+
+Left Arrow/A - Move Left
+Right Arrow/D - Move Right
+Q/E - Change Weapon
+Mouse - Aim/Navigate Menu
+R - Reload
+Esc - Pause/Exit Game
+
+===================================
+Changelog
+===================================
+
+Escape From Hangar 10 v1.1
+
+- New Menu
+- Fixed sprites not animating properly
+- Code cleaned
+
+Escape From Hangar 10 v1.0
+
+- First Release
